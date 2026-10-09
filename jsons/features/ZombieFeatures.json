@@ -1,0 +1,2140 @@
+{
+  "ZOMBIES": [
+    {
+      "CODENAME": "tutorial_armor1",
+      "NAME": {
+        "en": "Conehead Zombie",
+        "zh": "路障僵尸",
+        "es": "Zombi caracono"
+      }
+    },
+    {
+      "CODENAME": "tutorial_armor2",
+      "NAME": {
+        "en": "Buckethead Zombie",
+        "zh": "铁桶僵尸",
+        "es": "Zombi caracubo"
+      }
+    },
+    {
+      "CODENAME": "tutorial_armor4",
+      "NAME": {
+        "en": "Brickhead Zombie",
+        "zh": "砖头僵尸",
+        "es": "Zombi caraladrillo"
+      }
+    },
+    {
+      "CODENAME": "tutorial_flag",
+      "NAME": {
+        "en": "Flag Zombie",
+        "zh": "旗帜僵尸",
+        "es": "Zombi abanderado"
+      }
+    },
+    {
+      "CODENAME": "duckytube",
+      "NAME": {
+        "en": "Ducky Tube",
+        "zh": "鸭子泳圈僵尸",
+        "es": "Zombi con flotador de patito"
+      }
+    },
+    {
+      "CODENAME": "duckytube_armor1",
+      "NAME": {
+        "en": "Conehead Ducky Tube",
+        "zh": "路障泳圈僵尸",
+        "es": "Zombi de flotador caracono"
+      }
+    },
+    {
+      "CODENAME": "duckytube_armor2",
+      "NAME": {
+        "en": "Buckethead Ducky Tube",
+        "zh": "铁桶泳圈僵尸",
+        "es": "Zombi de flotador caracubo"
+      }
+    },
+    {
+      "CODENAME": "duckytube_armor4",
+      "NAME": {
+        "en": "Brickhead Ducky Tube Zombie",
+        "zh": "砖头泳圈僵尸",
+        "es": "Zombi de flotador caraladrillo"
+      }
+    },
+    {
+      "CODENAME": "duckytube_flag",
+      "NAME": {
+        "en": "Ducky Tube Flag Zombie",
+        "zh": "泳圈旗帜僵尸",
+        "es": "Zombi de flotador abanderado"
+      }
+    },
+    {
+      "CODENAME": "tutorial_imp",
+      "NAME": {
+        "en": "Imp",
+        "zh": "小鬼",
+        "es": "Zombidito"
+      }
+    },
+    {
+      "CODENAME": "tutorial_gargantuar",
+      "NAME": {
+        "en": "Gargantuar",
+        "zh": "巨尸",
+        "es": "Zombistein"
+      }
+    },
+    {
+      "CODENAME": "vase_gargantuar",
+      "NAME": {
+        "en": "Vase Gargantuar",
+        "zh": "瓶中巨尸",
+        "es": "Zombistein de jarrón"
+      }
+    },
+    {
+      "CODENAME": "bobsled_team",
+      "NAME": {
+        "en": "Zombie Bobsled Team",
+        "zh": "雪橇小队",
+        "es": "Equipo zombi de bobsled"
+      }
+    },
+    {
+      "CODENAME": "modern_newspaper",
+      "NAME": {
+        "en": "Newspaper Zombie",
+        "zh": "读报僵尸",
+        "es": "Zombi lector"
+      }
+    },
+    {
+      "CODENAME": "modern_balloon",
+      "NAME": {
+        "en": "Balloon Zombie",
+        "zh": "气球僵尸",
+        "es": "Zombi con globo"
+      }
+    },
+    {
+      "CODENAME": "modern_allstar",
+      "NAME": {
+        "en": "All-Star Zombie",
+        "zh": "全明星僵尸",
+        "es": "Zombi All-Star"
+      }
+    },
+    {
+      "CODENAME": "modern_superfanimp",
+      "NAME": {
+        "en": "Super-Fan Imp",
+        "zh": "狂热粉丝小鬼",
+        "es": "Zombidito superfan"
+      }
+    },
+    {
+      "CODENAME": "zomboni",
+      "NAME": {
+        "en": "Zomboni",
+        "zh": "造冰车僵尸",
+        "es": "Zombictor"
+      }
+    },
+    {
+      "CODENAME": "catapult",
+      "NAME": {
+        "en": "Catapult Zombie",
+        "zh": "投石车僵尸",
+        "es": "Zombipulta"
+      }
+    },
+    {
+      "CODENAME": "supernova_gargantuar",
+      "NAME": {
+        "en": "Supernova Gargantuar",
+        "zh": "超新星巨尸",
+        "es": "Zombistein supernova"
+      }
+    },
+    {
+      "CODENAME": "birthday",
+      "NAME": {
+        "en": "Birthdayz Zombie",
+        "zh": "派对僵尸",
+        "es": "Zombi de cumpleaños"
+      }
+    },
+    {
+      "CODENAME": "birthday_armored",
+      "NAME": {
+        "en": "Birthdayz Zombie (Without Party Hat)",
+        "zh": "派对僵尸（无派对帽）",
+        "es": "Zombi de cumpleaños (sin gorro de fiesta)"
+      }
+    },
+    {
+      "CODENAME": "birthday_flag",
+      "NAME": {
+        "en": "Birthdayz Balloon Zombie",
+        "zh": "派对气球僵尸",
+        "es": "Zombi de cumpleaños con globo"
+      }
+    },
+    {
+      "CODENAME": "birthday_pharaoh_inner",
+      "NAME": {
+        "en": "Birthdayz Cake-faced Zombie",
+        "zh": "派对蛋糕脸僵尸",
+        "es": "Zombi de cumpleaños cara de pastel"
+      }
+    },
+    {
+      "CODENAME": "birthday_pharaoh",
+      "NAME": {
+        "en": "Birthdayz Cake Zombie",
+        "zh": "派对蛋糕僵尸",
+        "es": "Zombi de cumpleaños pastel"
+      }
+    },
+    {
+      "CODENAME": "birthday_barrelroller",
+      "NAME": {
+        "en": "Birthdayz Barrel Roller Zombie",
+        "zh": "派对滚桶僵尸",
+        "es": "Zombi tonelero de cumpleaños"
+      }
+    },
+    {
+      "CODENAME": "birthday_barrel",
+      "NAME": {
+        "en": "Birthdayz Pirate Barrel",
+        "zh": "派对木桶",
+        "es": "Barril pirata de cumpleaños"
+      }
+    },
+    {
+      "CODENAME": "birthday_juggler",
+      "NAME": {
+        "en": "Birthdayz Jester Zombie",
+        "zh": "派对弄臣僵尸",
+        "es": "Zombi bufón de cumpleaños"
+      }
+    },
+    {
+      "CODENAME": "birthday_troglobite",
+      "NAME": {
+        "en": "Birthdayz Present Box Zombie",
+        "zh": "派对礼盒僵尸",
+        "es": "Zombi de cumpleaños con caja de regalo"
+      }
+    },
+    {
+      "CODENAME": "birthday_gargantuar",
+      "NAME": {
+        "en": "Surprise Gargantuar",
+        "zh": "惊喜巨尸",
+        "es": "Zombistein sorpresa"
+      }
+    },
+    {
+      "CODENAME": "sportzball",
+      "NAME": {
+        "en": "Sportz-ball Basic Zombie",
+        "zh": "运动节普通僵尸",
+        "es": "Zombi deportista"
+      }
+    },
+    {
+      "CODENAME": "sportzball_armor1",
+      "NAME": {
+        "en": "Sportz-ball Conehead Zombie",
+        "zh": "运动节路障僵尸",
+        "es": "Zombi deportista caracono"
+      }
+    },
+    {
+      "CODENAME": "sportzball_armor2",
+      "NAME": {
+        "en": "Sportz-ball Buckethead Zombie",
+        "zh": "运动节铁桶僵尸",
+        "es": "Zombi deportista caracubo"
+      }
+    },
+    {
+      "CODENAME": "sportzball_flag",
+      "NAME": {
+        "en": "Sportz-ball Flag Zombie",
+        "zh": "运动节旗帜僵尸",
+        "es": "Zombi deportista abanderado"
+      }
+    },
+    {
+      "CODENAME": "sportzball_wizard",
+      "NAME": {
+        "en": "Sportz-ball Referee",
+        "zh": "运动节裁判员",
+        "es": "Zombi árbitro"
+      }
+    },
+    {
+      "CODENAME": "sportzball_balloon",
+      "NAME": {
+        "en": "Sportz-balloon Zombie",
+        "zh": "运动节气球僵尸",
+        "es": "Zombi deportista con globo"
+      }
+    },
+    {
+      "CODENAME": "sportzball_imp",
+      "NAME": {
+        "en": "Soccer Imp",
+        "zh": "足球小鬼",
+        "es": "Zombidito futbolista"
+      }
+    },
+    {
+      "CODENAME": "sportzball_gargantuar",
+      "NAME": {
+        "en": "Sportz-ball Gargantuar",
+        "zh": "运动节巨尸",
+        "es": "Zombistein deportista"
+      }
+    },
+    {
+      "CODENAME": "foodfight",
+      "NAME": {
+        "en": "Foodfight Zombie",
+        "zh": "觅食僵尸",
+        "es": "Zombi glotón"
+      }
+    },
+    {
+      "CODENAME": "foodfight_armor1",
+      "NAME": {
+        "en": "Conehead Foodfight Zombie",
+        "zh": "路障觅食僵尸",
+        "es": "Zombi glotón caracono"
+      }
+    },
+    {
+      "CODENAME": "foodfight_armor2",
+      "NAME": {
+        "en": "Buckethead Foodfight Zombie",
+        "zh": "铁桶觅食僵尸",
+        "es": "Zombi glotón caracubo"
+      }
+    },
+    {
+      "CODENAME": "foodfight_flag",
+      "NAME": {
+        "en": "Flag Foodfight Zombie",
+        "zh": "旗帜觅食僵尸",
+        "es": "Zombi glotón abanderado"
+      }
+    },
+    {
+      "CODENAME": "valentines",
+      "NAME": {
+        "en": "Valentines Zombie",
+        "zh": "情人节僵尸",
+        "es": "Zombi de San Valentín"
+      }
+    },
+    {
+      "CODENAME": "valentines_armor1",
+      "NAME": {
+        "en": "Valentines Conehead",
+        "zh": "情人节路障僵尸",
+        "es": "Zombi de San Valentín caracono"
+      }
+    },
+    {
+      "CODENAME": "valentines_armor2",
+      "NAME": {
+        "en": "Valentines Buckethead",
+        "zh": "情人节铁桶僵尸",
+        "es": "Zombi de San Valentín caracubo"
+      }
+    },
+    {
+      "CODENAME": "valentines_flag",
+      "NAME": {
+        "en": "Valentines Flag",
+        "zh": "情人节旗帜僵尸",
+        "es": "Zombi de San Valentín abanderado"
+      }
+    },
+    {
+      "CODENAME": "valentines_imp",
+      "NAME": {
+        "en": "Valentines Imp",
+        "zh": "情人节小鬼",
+        "es": "Zombidito de San Valentín"
+      }
+    },
+    {
+      "CODENAME": "valentines_gargantuar",
+      "NAME": {
+        "en": "Valentines Gargantuar",
+        "zh": "情人节巨尸",
+        "es": "Zombistein de San Valentín"
+      }
+    },
+    {
+      "CODENAME": "stpatrick",
+      "NAME": {
+        "en": "St. Patrick's Zombie",
+        "zh": "圣帕特里克节僵尸",
+        "es": "Zombi de San Patricio"
+      }
+    },
+    {
+      "CODENAME": "stpatrick_armor1",
+      "NAME": {
+        "en": "St. Patrick's Conehead",
+        "zh": "圣帕特里克节路障僵尸",
+        "es": "Zombi de San Patricio caracono"
+      }
+    },
+    {
+      "CODENAME": "stpatrick_armor2",
+      "NAME": {
+        "en": "St. Patrick's Buckethead",
+        "zh": "圣帕特里克节铁桶僵尸",
+        "es": "Zombi de San Patricio caracubo"
+      }
+    },
+    {
+      "CODENAME": "stpatrick_flag",
+      "NAME": {
+        "en": "St. Patrick's Flag",
+        "zh": "圣帕特里克节僵尸",
+        "es": "Zombi de San Patricio abanderado"
+      }
+    },
+    {
+      "CODENAME": "stpatrick_dodo",
+      "NAME": {
+        "en": "St. Patrick's Dodo Rider",
+        "zh": "圣帕特里克节渡渡鸟骑手",
+        "es": "Zombi jinete de dodo de San Patricio"
+      }
+    },
+    {
+      "CODENAME": "stpatrick_imp",
+      "NAME": {
+        "en": "Leprechaun Imp",
+        "zh": "小矮妖小鬼",
+        "es": "Zombidito duende"
+      }
+    },
+    {
+      "CODENAME": "lunar",
+      "NAME": {
+        "en": "Lunar Year Zombie",
+        "zh": "新春僵尸",
+        "es": "Zombi del Año Nuevo Lunar"
+      }
+    },
+    {
+      "CODENAME": "lunar_armor1",
+      "NAME": {
+        "en": "Lunar Year Conehead",
+        "zh": "新春路障僵尸",
+        "es": "Zombi del Año Nuevo Lunar caracono"
+      }
+    },
+    {
+      "CODENAME": "lunar_armor2",
+      "NAME": {
+        "en": "Lunar Year Buckethead",
+        "zh": "新春铁桶僵尸",
+        "es": "Zombi del Año Nuevo Lunar caracubo"
+      }
+    },
+    {
+      "CODENAME": "lunar_flag",
+      "NAME": {
+        "en": "Lunar Year Flag",
+        "zh": "新春旗帜僵尸",
+        "es": "Zombi del Año Nuevo Lunar abanderado"
+      }
+    },
+    {
+      "CODENAME": "lunar_camel_segment",
+      "NAME": {
+        "en": "Lunar Wall Zombie",
+        "zh": "年兽牌僵尸",
+        "es": "Zombi muralla lunar"
+      }
+    },
+    {
+      "CODENAME": "lunar_camel_onehump",
+      "NAME": {
+        "en": "Lunar Wall Zombies",
+        "zh": "年兽牌僵尸",
+        "es": "Zombis muralla lunar"
+      }
+    },
+    {
+      "CODENAME": "lunar_superfanimp",
+      "NAME": {
+        "en": "Lunar Super-Fan Imp",
+        "zh": "新年狂热粉丝小鬼",
+        "es": "Zombidito superfan lunar"
+      }
+    },
+    {
+      "CODENAME": "mummy",
+      "NAME": {
+        "en": "Mummy Zombie",
+        "zh": "木乃伊僵尸",
+        "es": "Zombi momia"
+      }
+    },
+    {
+      "CODENAME": "mummy_armor1",
+      "NAME": {
+        "en": "Conehead Mummy",
+        "zh": "路障木乃伊",
+        "es": "Momia caracono"
+      }
+    },
+    {
+      "CODENAME": "mummy_armor2",
+      "NAME": {
+        "en": "Buckethead Mummy",
+        "zh": "铁桶木乃伊",
+        "es": "Momia caracubo"
+      }
+    },
+    {
+      "CODENAME": "mummy_flag",
+      "NAME": {
+        "en": "Flag Mummy Zombie",
+        "zh": "旗帜木乃伊",
+        "es": "Zombi abanderado momia"
+      }
+    },
+    {
+      "CODENAME": "camel_segment",
+      "NAME": {
+        "en": "Camel Zombie",
+        "zh": "骆驼牌僵尸",
+        "es": "Zombi camello"
+      }
+    },
+    {
+      "CODENAME": "camel_onehump",
+      "NAME": {
+        "en": "Camel Zombies",
+        "zh": "骆驼牌僵尸",
+        "es": "Zombis camellos"
+      }
+    },
+    {
+      "CODENAME": "camel_segment_touch",
+      "NAME": {
+        "en": "Camel Touch Zombie",
+        "zh": "记忆骆驼牌僵尸",
+        "es": "Zombi camello táctil"
+      }
+    },
+    {
+      "CODENAME": "camel_onehump_touch",
+      "NAME": {
+        "en": "Camel Touch Zombies",
+        "zh": "记忆骆驼牌僵尸",
+        "es": "Zombis camellos táctiles"
+      }
+    },
+    {
+      "CODENAME": "explorer_veteran",
+      "NAME": {
+        "en": "Torchlight Zombie",
+        "zh": "火光僵尸",
+        "es": "Zombi antorcha"
+      }
+    },
+    {
+      "CODENAME": "tomb_raiser",
+      "NAME": {
+        "en": "Tomb Raiser Zombie",
+        "zh": "死神僵尸",
+        "es": "Zombi levantatumbas"
+      }
+    },
+    {
+      "CODENAME": "egypt_imp",
+      "NAME": {
+        "en": "Imp Mummy",
+        "zh": "木乃伊小鬼",
+        "es": "Zombidito momia"
+      }
+    },
+    {
+      "CODENAME": "egypt_gargantuar",
+      "NAME": {
+        "en": "Mummified Gargantuar",
+        "zh": "木乃伊巨尸",
+        "es": "Zombistein momificado"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_egypt",
+      "NAME": {
+        "en": "Zombot Sphinx-inator",
+        "zh": "狮身人面降临者",
+        "es": "Esfinge letal Zombot"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_egypt2",
+      "NAME": {
+        "en": "Zombot Sphinx-inator",
+        "zh": "狮身人面降临者",
+        "es": "Esfinge letal Zombot"
+      }
+    },
+    {
+      "CODENAME": "pirate_armor1",
+      "NAME": {
+        "en": "Conehead Pirate",
+        "zh": "路障海盗",
+        "es": "Pirata caracono"
+      }
+    },
+    {
+      "CODENAME": "pirate_armor2",
+      "NAME": {
+        "en": "Buckethead Pirate",
+        "zh": "铁桶海盗",
+        "es": "Pirata caracubo"
+      }
+    },
+    {
+      "CODENAME": "pirate_armor4",
+      "NAME": {
+        "en": "Barrelhead Pirate",
+        "zh": "木桶头海盗",
+        "es": "Pirata caratonel"
+      }
+    },
+    {
+      "CODENAME": "pirate_flag",
+      "NAME": {
+        "en": "Jolly Roger Zombie",
+        "zh": "海盗旗僵尸",
+        "es": "Zombi abanderado pirata"
+      }
+    },
+    {
+      "CODENAME": "swashbuckler",
+      "NAME": {
+        "en": "Swashbuckler Zombie",
+        "zh": "荡索僵尸",
+        "es": "Zombi espadachín"
+      }
+    },
+    {
+      "CODENAME": "seagull",
+      "NAME": {
+        "en": "Seagull Zombie",
+        "zh": "海鸥僵尸",
+        "es": "Zombi gaviotero"
+      }
+    },
+    {
+      "CODENAME": "pelican",
+      "NAME": {
+        "en": "Pelican Zombie",
+        "zh": "鹈鹕僵尸",
+        "es": "Zombi pelicanero"
+      }
+    },
+    {
+      "CODENAME": "barrelroller",
+      "NAME": {
+        "en": "Barrel Roller Zombie",
+        "zh": "滚桶僵尸",
+        "es": "Zombi tonelero"
+      }
+    },
+    {
+      "CODENAME": "cannon",
+      "NAME": {
+        "en": "Imp Cannon",
+        "zh": "小鬼炮",
+        "es": "Cañón zombidito"
+      }
+    },
+    {
+      "CODENAME": "pirate_imp",
+      "NAME": {
+        "en": "Imp Pirate Zombie",
+        "zh": "海盗小鬼",
+        "es": "Zombidito pirata"
+      }
+    },
+    {
+      "CODENAME": "pirate_gargantuar",
+      "NAME": {
+        "en": "Gargantuar Pirate",
+        "zh": "海盗巨尸",
+        "es": "Zombistein pirata"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_pirate",
+      "NAME": {
+        "en": "Zombot Plank Walker",
+        "zh": "甲板漫步者",
+        "es": "Corsario Zombot"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_pirate2",
+      "NAME": {
+        "en": "Zombot Plank Walker",
+        "zh": "甲板漫步者",
+        "es": "Corsario Zombot"
+      }
+    },
+    {
+      "CODENAME": "cowboy",
+      "NAME": {
+        "en": "Cowboy Zombie",
+        "zh": "牛仔僵尸",
+        "es": "Zombi cowboy"
+      }
+    },
+    {
+      "CODENAME": "cowboy_armor1",
+      "NAME": {
+        "en": "Conehead Cowboy",
+        "zh": "路障牛仔",
+        "es": "Cowboy caracono"
+      }
+    },
+    {
+      "CODENAME": "cowboy_armor2",
+      "NAME": {
+        "en": "Buckethead Cowboy",
+        "zh": "铁桶牛仔",
+        "es": "Cowboy caracubo"
+      }
+    },
+    {
+      "CODENAME": "cowboy_flag",
+      "NAME": {
+        "en": "Flag Cowboy Zombie",
+        "zh": "旗帜牛仔",
+        "es": "Zombi abanderado cowboy"
+      }
+    },
+    {
+      "CODENAME": "cowboy_flag_veteran",
+      "NAME": {
+        "en": "Cowboy Rally Zombie",
+        "zh": "大动员牛仔",
+        "es": "Zombi cowboy de arenga"
+      }
+    },
+    {
+      "CODENAME": "prospector",
+      "NAME": {
+        "en": "Prospector Zombie",
+        "zh": "炸矿僵尸",
+        "es": "Zombi buscador de oro"
+      }
+    },
+    {
+      "CODENAME": "poncho",
+      "NAME": {
+        "en": "Poncho Zombie",
+        "zh": "斗篷僵尸",
+        "es": "Zombi poncho"
+      }
+    },
+    {
+      "CODENAME": "poncho_no_plate",
+      "NAME": {
+        "en": "Poncho Zombie",
+        "zh": "斗篷僵尸",
+        "es": "Zombi poncho"
+      }
+    },
+    {
+      "CODENAME": "poncho_plate",
+      "NAME": {
+        "en": "Poncho Zombie",
+        "zh": "斗篷僵尸",
+        "es": "Zombi poncho"
+      }
+    },
+    {
+      "CODENAME": "chicken_farmer",
+      "NAME": {
+        "en": "Chicken Wrangler Zombie",
+        "zh": "牧鸡僵尸",
+        "es": "Zombi gallinero"
+      }
+    },
+    {
+      "CODENAME": "chicken",
+      "NAME": {
+        "en": "Zombie Chicken",
+        "zh": "僵尸鸡",
+        "es": "Gallina zombi"
+      }
+    },
+    {
+      "CODENAME": "west_bull",
+      "NAME": {
+        "en": "Machine Bull",
+        "zh": "机械牛",
+        "es": "Toro zombi"
+      }
+    },
+    {
+      "CODENAME": "west_bullrider",
+      "NAME": {
+        "en": "Zombie Bull Rider",
+        "zh": "牛骑手",
+        "es": "Zombi jinete de toro"
+      }
+    },
+    {
+      "CODENAME": "cowboy_gargantuar",
+      "NAME": {
+        "en": "Wild West Gargantuar",
+        "zh": "西部巨尸",
+        "es": "Zombistein del Salvaje Oeste"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_cowboy",
+      "NAME": {
+        "en": "Zombot War Wagon",
+        "zh": "重型战马车",
+        "es": "Carro blindado Zombot"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_cowboy2",
+      "NAME": {
+        "en": "Zombot War Wagon",
+        "zh": "重型战马车",
+        "es": "Carro blindado Zombot"
+      }
+    },
+    {
+      "CODENAME": "easter",
+      "NAME": {
+        "en": "Easter Zombie",
+        "zh": "复活节僵尸",
+        "es": "Zombi de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_armor1",
+      "NAME": {
+        "en": "Easter Conehead",
+        "zh": "复活节路障僵尸",
+        "es": "Zombi de Pascua caracono"
+      }
+    },
+    {
+      "CODENAME": "easter_armor2",
+      "NAME": {
+        "en": "Easter Buckethead",
+        "zh": "复活节铁桶僵尸",
+        "es": "Zombi de Pascua caracubo"
+      }
+    },
+    {
+      "CODENAME": "easter_armor4",
+      "NAME": {
+        "en": "Easter Brickhead Zombie",
+        "zh": "复活节砖头僵尸",
+        "es": "Zombi de Pascua caraladrillo"
+      }
+    },
+    {
+      "CODENAME": "easter_flag",
+      "NAME": {
+        "en": "Easter Flag Zombie",
+        "zh": "复活节旗帜僵尸",
+        "es": "Zombi de Pascua abanderado"
+      }
+    },
+    {
+      "CODENAME": "easter_camel_segment",
+      "NAME": {
+        "en": "Easter Panel Zombie",
+        "zh": "复活节牌僵尸",
+        "es": "Zombi panel de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_camel_onehump",
+      "NAME": {
+        "en": "Easter Panel Zombies",
+        "zh": "复活节牌僵尸",
+        "es": "Zombis panel de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_poncho",
+      "NAME": {
+        "en": "Easter Poncho Zombie",
+        "zh": "复活节斗篷僵尸",
+        "es": "Zombi poncho de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_wizard",
+      "NAME": {
+        "en": "Easter Wizard",
+        "zh": "复活节巫师",
+        "es": "Zombi mago de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_egg",
+      "NAME": {
+        "en": "Easter Egg",
+        "zh": "复活节彩蛋",
+        "es": "Huevo de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_imp",
+      "NAME": {
+        "en": "Easter Imp",
+        "zh": "复活节小鬼",
+        "es": "Zombidito de Pascua"
+      }
+    },
+    {
+      "CODENAME": "easter_gargantuar",
+      "NAME": {
+        "en": "Easter Gargantuar",
+        "zh": "复活节巨尸",
+        "es": "Zombistein de Pascua"
+      }
+    },
+    {
+      "CODENAME": "feastivus",
+      "NAME": {
+        "en": "Feastivus Zombie",
+        "zh": "圣诞僵尸",
+        "es": "Zombi navideño"
+      }
+    },
+    {
+      "CODENAME": "feastivus_armor1",
+      "NAME": {
+        "en": "Feastivus Conehead Zombie",
+        "zh": "圣诞路障僵尸",
+        "es": "Zombi navideño caracono"
+      }
+    },
+    {
+      "CODENAME": "feastivus_armor2",
+      "NAME": {
+        "en": "Feastivus Buckethead Zombie",
+        "zh": "圣诞铁桶僵尸",
+        "es": "Zombi navideño caracubo"
+      }
+    },
+    {
+      "CODENAME": "feastivus_flag",
+      "NAME": {
+        "en": "Feastivus Flag Zombie",
+        "zh": "圣诞旗帜僵尸",
+        "es": "Zombi navideño abanderado"
+      }
+    },
+    {
+      "CODENAME": "feastivus_camel_segment",
+      "NAME": {
+        "en": "Feastivus Camel Zombie",
+        "zh": "圣诞骆驼牌僵尸",
+        "es": "Zombi camello navideño"
+      }
+    },
+    {
+      "CODENAME": "feastivus_camel_onehump",
+      "NAME": {
+        "en": "Feastivus Camel Zombies",
+        "zh": "圣诞骆驼牌僵尸",
+        "es": "Zombis camellos navideños"
+      }
+    },
+    {
+      "CODENAME": "feastivus_swashbuckler",
+      "NAME": {
+        "en": "Feastivus Swashbuckler Zombie",
+        "zh": "圣诞荡索僵尸",
+        "es": "Zombi navideño acróbata"
+      }
+    },
+    {
+      "CODENAME": "feastivus_piano",
+      "NAME": {
+        "en": "Feastivus Pianist Zombie",
+        "zh": "圣诞奏琴僵尸",
+        "es": "Zombi pianista navideño"
+      }
+    },
+    {
+      "CODENAME": "feastivus_poncho",
+      "NAME": {
+        "en": "Feastivus Poncho Zombie",
+        "zh": "圣诞斗篷僵尸",
+        "es": "Zombi navideño con poncho"
+      }
+    },
+    {
+      "CODENAME": "feastivus_poncho_no_plate",
+      "NAME": {
+        "en": "Feastivus Poncho Zombie",
+        "zh": "圣诞斗篷僵尸",
+        "es": "Zombi navideño con poncho"
+      }
+    },
+    {
+      "CODENAME": "feastivus_poncho_plate",
+      "NAME": {
+        "en": "Feastivus Poncho Zombie",
+        "zh": "圣诞斗篷僵尸",
+        "es": "Zombi navideño con poncho"
+      }
+    },
+    {
+      "CODENAME": "feastivus_imp",
+      "NAME": {
+        "en": "Feastivus Imp",
+        "zh": "圣诞小鬼",
+        "es": "Zombidito navideño"
+      }
+    },
+    {
+      "CODENAME": "holiday_imp",
+      "NAME": {
+        "en": "Holiday Imp",
+        "zh": "节庆小鬼",
+        "es": "Zombidito festivo"
+      }
+    },
+    {
+      "CODENAME": "feastivus_gargantuar",
+      "NAME": {
+        "en": "Feastivus Gargantuar",
+        "zh": "圣诞巨尸",
+        "es": "Zombistein navideño"
+      }
+    },
+    {
+      "CODENAME": "holiday_gargantuar",
+      "NAME": {
+        "en": "Holiday Gargantuar",
+        "zh": "节庆巨尸",
+        "es": "Zombistein festivo"
+      }
+    },
+    {
+      "CODENAME": "future_armor1",
+      "NAME": {
+        "en": "Future Conehead Zombie",
+        "zh": "未来路障僵尸",
+        "es": "Zombi futurista caracono"
+      }
+    },
+    {
+      "CODENAME": "future_armor2",
+      "NAME": {
+        "en": "Future Buckethead Zombie",
+        "zh": "未来铁桶僵尸",
+        "es": "Zombi futurista caracubo"
+      }
+    },
+    {
+      "CODENAME": "future_armor4",
+      "NAME": {
+        "en": "Holo Head Zombie",
+        "zh": "全息头僵尸",
+        "es": "Zombi caraholograma"
+      }
+    },
+    {
+      "CODENAME": "future_flag",
+      "NAME": {
+        "en": "Future Flag Zombie",
+        "zh": "未来旗帜僵尸",
+        "es": "Zombi futurista abanderado"
+      }
+    },
+    {
+      "CODENAME": "future_jetpack",
+      "NAME": {
+        "en": "Jetpack Zombie",
+        "zh": "喷气背包僵尸",
+        "es": "Zombi propulsado"
+      }
+    },
+    {
+      "CODENAME": "future_jetpack_disco",
+      "NAME": {
+        "en": "Disco Jetpack Zombie",
+        "zh": "喷气迪斯科僵尸",
+        "es": "Zombi propulsado disco"
+      }
+    },
+    {
+      "CODENAME": "future_protector",
+      "NAME": {
+        "en": "Force Shield Zombie",
+        "zh": "力场盾僵尸",
+        "es": "Zombi escudo"
+      }
+    },
+    {
+      "CODENAME": "future_infinut_shield",
+      "NAME": {
+        "en": "Infi-nut Shield",
+        "zh": "全息坚果防护盾",
+        "es": "Escudo de Nuez infinita"
+      }
+    },
+    {
+      "CODENAME": "mech_cone",
+      "NAME": {
+        "en": "Robo-Cone Zombie",
+        "zh": "机甲路障僵尸",
+        "es": "Zombi robocono"
+      }
+    },
+    {
+      "CODENAME": "football_mech",
+      "NAME": {
+        "en": "Mecha-Football Zombie",
+        "zh": "机甲橄榄球盔僵尸",
+        "es": "Zombi mecanizado de fútbol americano"
+      }
+    },
+    {
+      "CODENAME": "disco_mech",
+      "NAME": {
+        "en": "Disco-tron 3000",
+        "zh": "迪斯科 3000",
+        "es": "Discotrón 3000"
+      }
+    },
+    {
+      "CODENAME": "future_imp",
+      "NAME": {
+        "en": "Bug Bot Imp",
+        "zh": "机械虫小鬼",
+        "es": "Zombidito bicho robot"
+      }
+    },
+    {
+      "CODENAME": "future_gargantuar",
+      "NAME": {
+        "en": "Gargantuar Prime",
+        "zh": "巨尸统领者",
+        "es": "Zombistein prime"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_future",
+      "NAME": {
+        "en": "Zombot Tommorrow-tron",
+        "zh": "明日缔造者",
+        "es": "Mañana-tron Zombot"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_future2",
+      "NAME": {
+        "en": "Zombot Tommorrow-tron",
+        "zh": "明日缔造者",
+        "es": "Mañana-tron Zombot"
+      }
+    },
+    {
+      "CODENAME": "dark_armor1",
+      "NAME": {
+        "en": "Conehead Peasant",
+        "zh": "路障农夫",
+        "es": "Campesino caracono"
+      }
+    },
+    {
+      "CODENAME": "dark_armor2",
+      "NAME": {
+        "en": "Buckethead Peasant",
+        "zh": "铁桶农夫",
+        "es": "Zombi campesino caracubo"
+      }
+    },
+    {
+      "CODENAME": "dark_flag",
+      "NAME": {
+        "en": "Peasant Flag Zombie",
+        "zh": "旗帜农夫僵尸",
+        "es": "Zombi campesino abanderado"
+      }
+    },
+    {
+      "CODENAME": "dark_imp_dragon",
+      "NAME": {
+        "en": "Imp Dragon Zombie",
+        "zh": "火龙小鬼",
+        "es": "Zombidito dragón"
+      }
+    },
+    {
+      "CODENAME": "dark_imp",
+      "NAME": {
+        "en": "Imp Monk Zombie",
+        "zh": "僧侣小鬼",
+        "es": "Zombidito monje"
+      }
+    },
+    {
+      "CODENAME": "dark_gargantuar",
+      "NAME": {
+        "en": "Dark Ages Gargantuar",
+        "zh": "黑暗巨尸",
+        "es": "Zombistein de la Edad Oscura"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_dark",
+      "NAME": {
+        "en": "Zombot Dark Dragon",
+        "zh": "巨龙驾驭者",
+        "es": "Dragón oscuro Zombot"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_dark2",
+      "NAME": {
+        "en": "Zombot Dark Dragon",
+        "zh": "巨龙驾驭者",
+        "es": "Dragón oscuro Zombot"
+      }
+    },
+    {
+      "CODENAME": "beach",
+      "NAME": {
+        "en": "Pompadour Zombie",
+        "zh": "飞机头僵尸",
+        "es": "Zombi pompadour"
+      }
+    },
+    {
+      "CODENAME": "beach_armor1",
+      "NAME": {
+        "en": "Pompadour Conehead",
+        "zh": "路障飞机头",
+        "es": "Pompadour caracono"
+      }
+    },
+    {
+      "CODENAME": "beach_armor2",
+      "NAME": {
+        "en": "Pompadour Buckethead",
+        "zh": "铁桶飞机头",
+        "es": "Pompadour caracubo"
+      }
+    },
+    {
+      "CODENAME": "beach_armor4",
+      "NAME": {
+        "en": "Crab-head Pompadour",
+        "zh": "螃蟹飞机头",
+        "es": "Pompadour con cangrejo"
+      }
+    },
+    {
+      "CODENAME": "beach_fem",
+      "NAME": {
+        "en": "Bikini Zombie",
+        "zh": "比基尼僵尸",
+        "es": "Zombi con bikini"
+      }
+    },
+    {
+      "CODENAME": "beach_fem_armor1",
+      "NAME": {
+        "en": "Bikini Conehead",
+        "zh": "路障比基尼",
+        "es": "Zombi bikini caracono"
+      }
+    },
+    {
+      "CODENAME": "beach_fem_armor2",
+      "NAME": {
+        "en": "Bikini Buckethead",
+        "zh": "铁桶比基尼",
+        "es": "Zombi bikini caracubo"
+      }
+    },
+    {
+      "CODENAME": "beach_flag",
+      "NAME": {
+        "en": "Beach Flag Zombie",
+        "zh": "沙滩旗帜僵尸",
+        "es": "Zombi playero abanderado"
+      }
+    },
+    {
+      "CODENAME": "beach_snorkel",
+      "NAME": {
+        "en": "Snorkel Zombie",
+        "zh": "浮潜僵尸",
+        "es": "Zombi buzo"
+      }
+    },
+    {
+      "CODENAME": "beach_imp",
+      "NAME": {
+        "en": "Imp Mermaid Zombie",
+        "zh": "美人鱼小鬼",
+        "es": "Zombidito sirena"
+      }
+    },
+    {
+      "CODENAME": "beach_gargantuar",
+      "NAME": {
+        "en": "Deep Sea Gargantuar",
+        "zh": "深海巨尸",
+        "es": "Zombistein de las profundidades"
+      }
+    },
+    {
+      "CODENAME": "iceage",
+      "NAME": {
+        "en": "Cave Zombie",
+        "zh": "洞窟僵尸",
+        "es": "Zombi cavernario"
+      }
+    },
+    {
+      "CODENAME": "iceage_armor1",
+      "NAME": {
+        "en": "Cave Conehead Zombie",
+        "zh": "洞窟路障僵尸",
+        "es": "Zombi cavernario caracono"
+      }
+    },
+    {
+      "CODENAME": "iceage_armor2",
+      "NAME": {
+        "en": "Cave Buckethead Zombie",
+        "zh": "洞窟铁桶僵尸",
+        "es": "Zombi cavernario caracubo"
+      }
+    },
+    {
+      "CODENAME": "iceage_armor3",
+      "NAME": {
+        "en": "Blockhead Zombie",
+        "zh": "冰砖头僵尸",
+        "es": "Zombi carabloque"
+      }
+    },
+    {
+      "CODENAME": "iceage_flag",
+      "NAME": {
+        "en": "Cave Flag Zombie",
+        "zh": "洞窟旗帜僵尸",
+        "es": "Zombi cavernario abanderado"
+      }
+    },
+    {
+      "CODENAME": "iceage_flag_veteran",
+      "NAME": {
+        "en": "Cave Rally Zombie",
+        "zh": "洞窟大动员僵尸",
+        "es": "Zombi cavernícola de arenga"
+      }
+    },
+    {
+      "CODENAME": "iceage_hunter_veteran",
+      "NAME": {
+        "en": "Hunter Leader Zombie",
+        "zh": "猎人领袖僵尸",
+        "es": "Líder cazador zombi"
+      }
+    },
+    {
+      "CODENAME": "iceage_troglobite",
+      "NAME": {
+        "en": "Troglobite",
+        "zh": "穴居僵尸",
+        "es": "Troglobocado"
+      }
+    },
+    {
+      "CODENAME": "iceage_troglobite_1block",
+      "NAME": {
+        "en": "Troglobite One Block",
+        "zh": "穴居（一砖）僵尸",
+        "es": "Troglobocado con un bloque"
+      }
+    },
+    {
+      "CODENAME": "iceage_troglobite_2block",
+      "NAME": {
+        "en": "Troglobite Two Blocks",
+        "zh": "穴居（二砖）僵尸",
+        "es": "Troglobocado con dos bloques"
+      }
+    },
+    {
+      "CODENAME": "iceage_troglobite_veteran",
+      "NAME": {
+        "en": "Troglobite Warchief",
+        "zh": "穴居首领僵尸",
+        "es": "Jefe Troglobocado"
+      }
+    },
+    {
+      "CODENAME": "iceage_weaselhoarder",
+      "NAME": {
+        "en": "Weasel Hoarder",
+        "zh": "囤鼬僵尸",
+        "es": "Zombi comadrejera"
+      }
+    },
+    {
+      "CODENAME": "iceage_imp",
+      "NAME": {
+        "en": "Yeti Imp",
+        "zh": "雪人小鬼",
+        "es": "Zombidito yeti"
+      }
+    },
+    {
+      "CODENAME": "iceage_gargantuar",
+      "NAME": {
+        "en": "Sloth Gargantuar",
+        "zh": "树懒皮巨尸",
+        "es": "Zombistein perezoso"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_iceage",
+      "NAME": {
+        "en": "Zombot Tuskmaster 10,000 BC",
+        "zh": "獠牙征服者",
+        "es": "Zombot Maestro del Colmillo 10 000 a. C."
+      }
+    },
+    {
+      "CODENAME": "zombossmech_iceage2",
+      "NAME": {
+        "en": "Zombot Tuskmaster 10,000 BC",
+        "zh": "獠牙征服者",
+        "es": "Zombot Maestro del Colmillo 10 000 a. C."
+      }
+    },
+    {
+      "CODENAME": "lostcity_armor1",
+      "NAME": {
+        "en": "Conehead Adventurer",
+        "zh": "路障探宝家",
+        "es": "Aventurero caracono"
+      }
+    },
+    {
+      "CODENAME": "lostcity_armor2",
+      "NAME": {
+        "en": "Buckethead Adventurer",
+        "zh": "铁桶探宝家",
+        "es": "Aventurero caracubo"
+      }
+    },
+    {
+      "CODENAME": "lostcity_flag",
+      "NAME": {
+        "en": "Flag Adventurer",
+        "zh": "旗帜探宝家",
+        "es": "Aventurero abanderado"
+      }
+    },
+    {
+      "CODENAME": "lostcity_jane",
+      "NAME": {
+        "en": "Parasol Zombie",
+        "zh": "阳伞僵尸",
+        "es": "Zombi parasol"
+      }
+    },
+    {
+      "CODENAME": "lostcity_bug_armor1",
+      "NAME": {
+        "en": "Conehead Bug Zombie",
+        "zh": "路障蜻蜓僵尸",
+        "es": "Zombi libélula caracono"
+      }
+    },
+    {
+      "CODENAME": "lostcity_bug_armor2",
+      "NAME": {
+        "en": "Buckethead Bug Zombie",
+        "zh": "铁桶蜻蜓僵尸",
+        "es": "Zombi libélula caracubo"
+      }
+    },
+    {
+      "CODENAME": "lostcity_relichunter",
+      "NAME": {
+        "en": "Relic Hunter Zombie",
+        "zh": "遗迹猎宝僵尸",
+        "es": "Zombi cazador de reliquias"
+      }
+    },
+    {
+      "CODENAME": "lostcity_impporter",
+      "NAME": {
+        "en": "Imp Porter Zombie",
+        "zh": "搬运工小鬼",
+        "es": "Zombidito porteador"
+      }
+    },
+    {
+      "CODENAME": "lostcity_imp",
+      "NAME": {
+        "en": "Lost City Imp Zombie",
+        "zh": "失落之城小鬼",
+        "es": "Zombidito de la Ciudad Perdida"
+      }
+    },
+    {
+      "CODENAME": "lostcity_gargantuar",
+      "NAME": {
+        "en": "Porter Gargantuar",
+        "zh": "搬运工巨尸",
+        "es": "Zombistein porteador"
+      }
+    },
+    {
+      "CODENAME": "zoybean_gargantuar",
+      "NAME": {
+        "en": "Gargantuar Zomboid",
+        "zh": "豆腐巨尸",
+        "es": "Zombistein zomboide"
+      }
+    },
+    {
+      "CODENAME": "turkeypult_turkey",
+      "NAME": {
+        "en": "Zomboid Turkey",
+        "zh": "豆腐火鸡",
+        "es": "Pavo zomboide"
+      }
+    },
+    {
+      "CODENAME": "turkeypult_big_turkey",
+      "NAME": {
+        "en": "Big Zomboid Turkey",
+        "zh": "大豆腐火鸡",
+        "es": "Pavo zomboide grande"
+      }
+    },
+    {
+      "CODENAME": "summer_armor1",
+      "NAME": {
+        "en": "Conehead Summer Night Zombie",
+        "zh": "仲夏夜路障",
+        "es": "Zombi de noche de verano caracono"
+      }
+    },
+    {
+      "CODENAME": "summer_armor2",
+      "NAME": {
+        "en": "Buckethead Summer Night Zombie",
+        "zh": "仲夏夜铁桶",
+        "es": "Zombi de noche de verano caracubo"
+      }
+    },
+    {
+      "CODENAME": "summer_flag",
+      "NAME": {
+        "en": "Flag Summer Night Zombie",
+        "zh": "仲夏夜旗帜僵尸",
+        "es": "Zombi de noche de verano abanderado"
+      }
+    },
+    {
+      "CODENAME": "summer_bug_armor1",
+      "NAME": {
+        "en": "Conehead Firefly",
+        "zh": "路障萤火虫",
+        "es": "Luciérnaga caracono"
+      }
+    },
+    {
+      "CODENAME": "summer_bug_armor2",
+      "NAME": {
+        "en": "Buckethead Firefly",
+        "zh": "铁桶萤火虫",
+        "es": "Luciérnaga caracubo"
+      }
+    },
+    {
+      "CODENAME": "summer_imp",
+      "NAME": {
+        "en": "Sausage Imp",
+        "zh": "烤肠小鬼",
+        "es": "Zombidito salchicha"
+      }
+    },
+    {
+      "CODENAME": "halloween",
+      "NAME": {
+        "en": "Skeleton-costume Zombie",
+        "zh": "骷髅装僵尸",
+        "es": "Zombi esqueleto"
+      }
+    },
+    {
+      "CODENAME": "halloween_armor1",
+      "NAME": {
+        "en": "Conehead Skeleton-costume",
+        "zh": "路障骷髅装",
+        "es": "Zombi esqueleto caracono"
+      }
+    },
+    {
+      "CODENAME": "halloween_armor2",
+      "NAME": {
+        "en": "Buckethead Skeleton-costume",
+        "zh": "铁桶骷髅装",
+        "es": "Zombi esqueleto caracubo"
+      }
+    },
+    {
+      "CODENAME": "halloween_flag",
+      "NAME": {
+        "en": "Flag Scarecrow",
+        "zh": "旗帜稻草人",
+        "es": "Zombi espantapájaros abanderado"
+      }
+    },
+    {
+      "CODENAME": "halloween_imp",
+      "NAME": {
+        "en": "Halloween Imp Mummy",
+        "zh": "万圣节木乃伊小鬼",
+        "es": "Zombidito momia de Halloween"
+      }
+    },
+    {
+      "CODENAME": "halloween_gargantuar",
+      "NAME": {
+        "en": "Frankenstein's Gargantuar",
+        "zh": "弗兰肯斯坦巨尸",
+        "es": "Zombistein Frankenstein"
+      }
+    },
+    {
+      "CODENAME": "kongfu_armor1",
+      "NAME": {
+        "en": "Kongfu Conehead Zombie",
+        "zh": "武斗路障僵尸",
+        "es": "Zombi caracono kung-fu"
+      }
+    },
+    {
+      "CODENAME": "kongfu_flag",
+      "NAME": {
+        "en": "Flag Kongfu Zombie",
+        "zh": "武斗旗帜僵尸",
+        "es": "Zombi kung-fu abanderado"
+      }
+    },
+    {
+      "CODENAME": "kongfu_rocket_imp",
+      "NAME": {
+        "en": "Rocket Imp",
+        "zh": "火箭小鬼",
+        "es": "Zombidito cohete"
+      }
+    },
+    {
+      "CODENAME": "monk_armor1",
+      "NAME": {
+        "en": "Monk Conehead Zombie",
+        "zh": "武僧路障僵尸",
+        "es": "Monje caracono"
+      }
+    },
+    {
+      "CODENAME": "monk_flag",
+      "NAME": {
+        "en": "Flag Monk Zombie",
+        "zh": "武僧旗帜僵尸",
+        "es": "Monje abanderado"
+      }
+    },
+    {
+      "CODENAME": "monk_imp",
+      "NAME": {
+        "en": "Kongfu Monk Imp",
+        "zh": "武僧小鬼",
+        "es": "Zombidito monje"
+      }
+    },
+    {
+      "CODENAME": "abbot_armor1",
+      "NAME": {
+        "en": "Abbot Conehead Zombie",
+        "zh": "住持路障僵尸",
+        "es": "Zombi abad caracono"
+      }
+    },
+    {
+      "CODENAME": "abbot_flag",
+      "NAME": {
+        "en": "Flag Abbot Zombie",
+        "zh": "住持旗帜僵尸",
+        "es": "Zombi abad abanderado"
+      }
+    },
+    {
+      "CODENAME": "abbot_imp",
+      "NAME": {
+        "en": "Abbot Imp",
+        "zh": "住持小鬼",
+        "es": "Zombidito abad"
+      }
+    },
+    {
+      "CODENAME": "kongfu_boss_blade",
+      "NAME": {
+        "en": "Blade-Wielding Hero",
+        "zh": "持刀大侠",
+        "es": "Héroe espadachín"
+      }
+    },
+    {
+      "CODENAME": "eighties",
+      "NAME": {
+        "en": "Neon Zombie",
+        "zh": "霓虹僵尸",
+        "es": "Zombi neón"
+      }
+    },
+    {
+      "CODENAME": "eighties_armor1",
+      "NAME": {
+        "en": "Neon Conehead",
+        "zh": "霓虹路障僵尸",
+        "es": "Zombi neón caracono"
+      }
+    },
+    {
+      "CODENAME": "eighties_armor2",
+      "NAME": {
+        "en": "Neon Buckethead",
+        "zh": "霓虹铁桶僵尸",
+        "es": "Zombi neón caracubo"
+      }
+    },
+    {
+      "CODENAME": "eighties_armor4",
+      "NAME": {
+        "en": "Spotlight Neon Zombie",
+        "zh": "聚光灯霓虹僵尸",
+        "es": "Zombi neón con foco"
+      }
+    },
+    {
+      "CODENAME": "eighties_flag",
+      "NAME": {
+        "en": "Neon Flag Zombie",
+        "zh": "霓虹旗帜僵尸",
+        "es": "Zombi neón abanderado"
+      }
+    },
+    {
+      "CODENAME": "eighties_flag_veteran",
+      "NAME": {
+        "en": "Neon Rally Zombie",
+        "zh": "霓虹大动员僵尸",
+        "es": "Zombi neón de arenga"
+      }
+    },
+    {
+      "CODENAME": "eighties_punk_veteran",
+      "NAME": {
+        "en": "Skunk Punk",
+        "zh": "臭鼬朋克",
+        "es": "Punk zorrillo"
+      }
+    },
+    {
+      "CODENAME": "eighties_skunk",
+      "NAME": {
+        "en": "Zombie Skunk",
+        "zh": "僵尸臭鼬",
+        "es": "Zorrillo zombi"
+      }
+    },
+    {
+      "CODENAME": "eighties_glitter",
+      "NAME": {
+        "en": "Glitter Zombie",
+        "zh": "闪耀僵尸",
+        "es": "Zombi purpurina"
+      }
+    },
+    {
+      "CODENAME": "eighties_breakdancer",
+      "NAME": {
+        "en": "Breakdancer Zombie",
+        "zh": "霹雳舞僵尸",
+        "es": "Zombi breakdancer"
+      }
+    },
+    {
+      "CODENAME": "eighties_8bit",
+      "NAME": {
+        "en": "8-Bit Zombie",
+        "zh": "像素僵尸",
+        "es": "Zombi 8-bit"
+      }
+    },
+    {
+      "CODENAME": "eighties_8bit_armor1",
+      "NAME": {
+        "en": "8-Bit Conehead",
+        "zh": "像素路障僵尸",
+        "es": "Zombi 8-bit caracono"
+      }
+    },
+    {
+      "CODENAME": "eighties_8bit_armor2",
+      "NAME": {
+        "en": "8-Bit Buckethead",
+        "zh": "像素铁桶僵尸",
+        "es": "Zombi 8-bit caracubo"
+      }
+    },
+    {
+      "CODENAME": "eighties_boombox",
+      "NAME": {
+        "en": "Boombox Zombie",
+        "zh": "音箱僵尸",
+        "es": "Zombi radiocasetero"
+      }
+    },
+    {
+      "CODENAME": "eighties_imp",
+      "NAME": {
+        "en": "Impunk",
+        "zh": "朋克小鬼",
+        "es": "Zombidito punk"
+      }
+    },
+    {
+      "CODENAME": "eighties_gargantuar",
+      "NAME": {
+        "en": "Hair Metal Gargantuar",
+        "zh": "重金属巨尸",
+        "es": "Zombistein metalero"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_eighties",
+      "NAME": {
+        "en": "Zombot Multi-stage Masher",
+        "zh": "节奏引领者",
+        "es": "Zombot machacante multiescenario"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_eighties2",
+      "NAME": {
+        "en": "Zombot Multi-stage Masher",
+        "zh": "节奏引领者",
+        "es": "Zombot machacante multiescenario"
+      }
+    },
+    {
+      "CODENAME": "dino",
+      "NAME": {
+        "en": "Jurassic Zombie",
+        "zh": "侏罗纪僵尸",
+        "es": "Zombi jurásico"
+      }
+    },
+    {
+      "CODENAME": "dino_armor1",
+      "NAME": {
+        "en": "Jurassic Conehead",
+        "zh": "侏罗纪路障僵尸",
+        "es": "Zombi jurásico caracono"
+      }
+    },
+    {
+      "CODENAME": "dino_armor2",
+      "NAME": {
+        "en": "Jurassic Buckethead",
+        "zh": "侏罗纪铁桶僵尸",
+        "es": "Zombi jurásico caracubo"
+      }
+    },
+    {
+      "CODENAME": "dino_armor3",
+      "NAME": {
+        "en": "Jurassic Fossilhead",
+        "zh": "侏罗纪龙骨头僵尸",
+        "es": "Zombi jurásico con cráneo fósil"
+      }
+    },
+    {
+      "CODENAME": "dino_armor4",
+      "NAME": {
+        "en": "Amberhead Zombie",
+        "zh": "琥珀头僵尸",
+        "es": "Zombi con cabeza de ámbar"
+      }
+    },
+    {
+      "CODENAME": "dino_flag",
+      "NAME": {
+        "en": "Jurassic Flag Zombie",
+        "zh": "侏罗纪旗帜僵尸",
+        "es": "Zombi jurásico abanderado"
+      }
+    },
+    {
+      "CODENAME": "dino_flag_veteran",
+      "NAME": {
+        "en": "Jurassic Rally Zombie",
+        "zh": "侏罗纪大动员僵尸",
+        "es": "Zombi jurásico de arenga"
+      }
+    },
+    {
+      "CODENAME": "dino_bully",
+      "NAME": {
+        "en": "Jurassic Bully",
+        "zh": "侏罗纪野人僵尸",
+        "es": "Zombi matón jurásico"
+      }
+    },
+    {
+      "CODENAME": "dino_bully_veteran",
+      "NAME": {
+        "en": "Jurassic Rockpuncher",
+        "zh": "侏罗纪打火石野人",
+        "es": "Bravucón jurásico de pedernal"
+      }
+    },
+    {
+      "CODENAME": "dino_imp",
+      "NAME": {
+        "en": "Jurassic Imp",
+        "zh": "侏罗纪小鬼",
+        "es": "Zombidito jurásico"
+      }
+    },
+    {
+      "CODENAME": "dino_gargantuar",
+      "NAME": {
+        "en": "Jurassic Gargantuar",
+        "zh": "侏罗纪巨尸",
+        "es": "Zombistein jurásico"
+      }
+    },
+    {
+      "CODENAME": "sky_unarmed_flag",
+      "NAME": {
+        "en": "Unarmed Flag Pilot",
+        "zh": "空手旗帜飞行员",
+        "es": "Piloto desarmado abanderado"
+      }
+    },
+    {
+      "CODENAME": "sky_armor1",
+      "NAME": {
+        "en": "Conehead Pilot",
+        "zh": "路障飞行员",
+        "es": "Piloto caracono"
+      }
+    },
+    {
+      "CODENAME": "sky_armor2",
+      "NAME": {
+        "en": "Buckethead Pilot",
+        "zh": "铁桶飞行员",
+        "es": "Piloto caracubo"
+      }
+    },
+    {
+      "CODENAME": "sky_flag",
+      "NAME": {
+        "en": "Flag Pilot",
+        "zh": "旗帜飞行员",
+        "es": "Piloto abanderado"
+      }
+    },
+    {
+      "CODENAME": "sky_airraid_twin",
+      "NAME": {
+        "en": "Double-Cabin Aircraft",
+        "zh": "双舱飞行僵尸",
+        "es": "Avión de doble cabina"
+      }
+    },
+    {
+      "CODENAME": "sky_arbiterx",
+      "NAME": {
+        "en": "Arbiter - Model X",
+        "zh": "仲裁者 - X 型",
+        "es": "Árbitro - Modelo X"
+      }
+    },
+    {
+      "CODENAME": "sky_airraid_arbiterx",
+      "NAME": {
+        "en": "Arbiter - Model X",
+        "zh": "仲裁者 - X 型",
+        "es": "Árbitro - Modelo X"
+      }
+    },
+    {
+      "CODENAME": "sky_dronemaker",
+      "NAME": {
+        "en": "Drone Engineer",
+        "zh": "无人机工程师",
+        "es": "Ingeniero de drones"
+      }
+    },
+    {
+      "CODENAME": "sky_drone",
+      "NAME": {
+        "en": "Drone",
+        "zh": "无人机",
+        "es": "Dron"
+      }
+    },
+    {
+      "CODENAME": "sky_imp",
+      "NAME": {
+        "en": "Imp Paratrooper",
+        "zh": "伞兵小鬼",
+        "es": "Zombidito paracaidista"
+      }
+    },
+    {
+      "CODENAME": "sky_gargantuar",
+      "NAME": {
+        "en": "Airborne Gargantuar",
+        "zh": "飞行巨尸",
+        "es": "Zombistein aéreo"
+      }
+    },
+    {
+      "CODENAME": "sky_gargantuar_armor2_thrower",
+      "NAME": {
+        "en": "Airborne Gargantuar",
+        "zh": "飞行巨尸",
+        "es": "Zombistein aéreo"
+      }
+    },
+    {
+      "CODENAME": "sky_battery",
+      "NAME": {
+        "en": "Floating Battery",
+        "zh": "悬浮电源",
+        "es": "Batería flotante"
+      }
+    },
+    {
+      "CODENAME": "sky_battery_lower",
+      "NAME": {
+        "en": "Floating Battery",
+        "zh": "悬浮电源",
+        "es": "Batería flotante"
+      }
+    },
+    {
+      "CODENAME": "zombossmech_sky",
+      "NAME": {
+        "en": "Zombot Vulture Warplane",
+        "zh": "领空统治者",
+        "es": "Zombot Avión de guerra buitre"
+      }
+    },
+    {
+      "CODENAME": "lawn_armor1",
+      "NAME": {
+        "en": "Lawn Conehead Zombie",
+        "zh": "场地路障僵尸",
+        "es": "Zombi del césped caracono"
+      }
+    },
+    {
+      "CODENAME": "lawn_armor2",
+      "NAME": {
+        "en": "Lawn Buckethead Zombie",
+        "zh": "场地铁桶僵尸",
+        "es": "Zombi del césped caracubo"
+      }
+    },
+    {
+      "CODENAME": "lawn_armor4",
+      "NAME": {
+        "en": "Lawn Brickhead Zombie",
+        "zh": "场地砖头僵尸",
+        "es": "Zombi del césped caraladrillo"
+      }
+    },
+    {
+      "CODENAME": "lawn_flag",
+      "NAME": {
+        "en": "Lawn Flag Zombie",
+        "zh": "场地旗帜僵尸",
+        "es": "Zombi del césped abanderado"
+      }
+    },
+    {
+      "CODENAME": "lawn_imp",
+      "NAME": {
+        "en": "Lawn Imp Zombie",
+        "zh": "场地小鬼僵尸",
+        "es": "Zombidito del césped"
+      }
+    },
+    {
+      "CODENAME": "lawn_gargantuar",
+      "NAME": {
+        "en": "Lawn Gargantuar Zombie",
+        "zh": "场地巨尸",
+        "es": "Zombistein del césped"
+      }
+    },
+    {
+      "CODENAME": "treasureyeti",
+      "NAME": {
+        "en": "Treasure Yeti",
+        "zh": "宝藏雪人",
+        "es": "Yeti del tesoro"
+      }
+    }
+  ]
+}

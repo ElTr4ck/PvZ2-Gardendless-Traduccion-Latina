@@ -1,0 +1,1340 @@
+{
+  "PLANTS": [
+    {
+      "CODENAME": "wallnut",
+      "NAME": {
+        "en": "Wall-nut",
+        "zh": "坚果墙",
+        "es": "Nuez"
+      }
+    },
+    {
+      "CODENAME": "potatomine",
+      "NAME": {
+        "en": "Potato Mine",
+        "zh": "土豆地雷",
+        "es": "Papapum"
+      }
+    },
+    {
+      "CODENAME": "cabbagepult",
+      "NAME": {
+        "en": "Cabbage-pult",
+        "zh": "卷心菜投手",
+        "es": "Coltapulta"
+      }
+    },
+    {
+      "CODENAME": "bloomerang",
+      "NAME": {
+        "en": "Bloomerang",
+        "zh": "回旋镖射手",
+        "es": "Bumerán"
+      }
+    },
+    {
+      "CODENAME": "bonkchoy",
+      "NAME": {
+        "en": "Bonk Choy",
+        "zh": "菜问",
+        "es": "Bonk Choi"
+      }
+    },
+    {
+      "CODENAME": "megagatling",
+      "NAME": {
+        "en": "Mega Gatling Pea",
+        "zh": "超级机枪射手",
+        "es": "Megaguisantralladora"
+      }
+    },
+    {
+      "CODENAME": "scaredyshroom",
+      "NAME": {
+        "en": "Scaredy Shroom",
+        "zh": "胆小菇",
+        "es": "Seta miedica"
+      }
+    },
+    {
+      "CODENAME": "fumeshroom",
+      "NAME": {
+        "en": "Fume-shroom",
+        "zh": "大喷菇",
+        "es": "Humoseta"
+      }
+    },
+    {
+      "CODENAME": "gravebuster",
+      "NAME": {
+        "en": "Grave Buster",
+        "zh": "噬碑藤",
+        "es": "Comepiedras"
+      }
+    },
+    {
+      "CODENAME": "pvine",
+      "NAME": {
+        "en": "Pea Vine",
+        "zh": "豌豆藤蔓",
+        "es": "Enredadera guisante"
+      }
+    },
+    {
+      "CODENAME": "threepeater",
+      "NAME": {
+        "en": "Threepeater",
+        "zh": "三线射手",
+        "es": "Tripitidora"
+      }
+    },
+    {
+      "CODENAME": "xshot",
+      "NAME": {
+        "en": "Rotobaga",
+        "zh": "旋转芜菁",
+        "es": "Rotinabo"
+      }
+    },
+    {
+      "CODENAME": "homingthistle",
+      "NAME": {
+        "en": "Homing Thistle",
+        "zh": "导向蓟",
+        "es": "Cardo teledirigido"
+      }
+    },
+    {
+      "CODENAME": "starfruit",
+      "NAME": {
+        "en": "Starfruit",
+        "zh": "星星果",
+        "es": "Frustrella"
+      }
+    },
+    {
+      "CODENAME": "shootingstarfruit",
+      "NAME": {
+        "en": "Shooting Starfruit",
+        "zh": "流星果",
+        "es": "Frustrella fugaz"
+      }
+    },
+    {
+      "CODENAME": "twinsunflower",
+      "NAME": {
+        "en": "Twin Sunflower",
+        "zh": "双胞向日葵",
+        "es": "Birasol"
+      }
+    },
+    {
+      "CODENAME": "snowpea",
+      "NAME": {
+        "en": "Snow Pea",
+        "zh": "寒冰射手",
+        "es": "Hielaguisantes"
+      }
+    },
+    {
+      "CODENAME": "lightningreed",
+      "NAME": {
+        "en": "Lightning Reed",
+        "zh": "闪电芦苇",
+        "es": "Junco eléctrico"
+      }
+    },
+    {
+      "CODENAME": "kernelpult",
+      "NAME": {
+        "en": "Kernel-pult",
+        "zh": "玉米投手",
+        "es": "Lanzamaíz"
+      }
+    },
+    {
+      "CODENAME": "springbean",
+      "NAME": {
+        "en": "Spring Bean",
+        "zh": "弹簧豆",
+        "es": "Frijuelle"
+      }
+    },
+    {
+      "CODENAME": "umbrellaleaf",
+      "NAME": {
+        "en": "Umbrella Leaf",
+        "zh": "伞叶",
+        "es": "Paraplanta"
+      }
+    },
+    {
+      "CODENAME": "wintermelon",
+      "NAME": {
+        "en": "Winter Melon",
+        "zh": "冰西瓜",
+        "es": "Melonpulta congelada"
+      }
+    },
+    {
+      "CODENAME": "blover",
+      "NAME": {
+        "en": "Blover",
+        "zh": "三叶草",
+        "es": "Trebolador"
+      }
+    },
+    {
+      "CODENAME": "spikeweed",
+      "NAME": {
+        "en": "Spikeweed",
+        "zh": "地刺",
+        "es": "Pinchohierba"
+      }
+    },
+    {
+      "CODENAME": "spikerock",
+      "NAME": {
+        "en": "Spikerock",
+        "zh": "钢地刺",
+        "es": "Pinchorroca"
+      }
+    },
+    {
+      "CODENAME": "chomper",
+      "NAME": {
+        "en": "Chomper",
+        "zh": "大嘴花",
+        "es": "Planta carroñívora"
+      }
+    },
+    {
+      "CODENAME": "glaciershroom",
+      "NAME": {
+        "en": "Ice-shroom",
+        "zh": "寒冰菇",
+        "es": "Seta congelada"
+      }
+    },
+    {
+      "CODENAME": "primalwallnut",
+      "NAME": {
+        "en": "Primal Wall-nut",
+        "zh": "原始坚果墙",
+        "es": "Nuez primitiva"
+      }
+    },
+    {
+      "CODENAME": "cherry_bomb",
+      "NAME": {
+        "en": "Cherry Bomb",
+        "zh": "樱桃炸弹",
+        "es": "Petacereza"
+      }
+    },
+    {
+      "CODENAME": "doomshroom",
+      "NAME": {
+        "en": "Doom-shroom",
+        "zh": "毁灭菇",
+        "es": "Petaseta"
+      }
+    },
+    {
+      "CODENAME": "cranjelly",
+      "NAME": {
+        "en": "Cran Jelly",
+        "zh": "果冻蔓越莓",
+        "es": "Gelatinadora"
+      }
+    },
+    {
+      "CODENAME": "torchwood",
+      "NAME": {
+        "en": "Torchwood",
+        "zh": "火炬树桩",
+        "es": "Plantorcha"
+      }
+    },
+    {
+      "CODENAME": "puffshroom",
+      "NAME": {
+        "en": "Puff-shroom",
+        "zh": "小喷菇",
+        "es": "Seta desesporada"
+      }
+    },
+    {
+      "CODENAME": "gloomvine",
+      "NAME": {
+        "en": "Gloom Vine",
+        "zh": "忧郁藤蔓",
+        "es": "Enredadera nefasta"
+      }
+    },
+    {
+      "CODENAME": "primalpotatomine",
+      "NAME": {
+        "en": "Primal Potato Mine",
+        "zh": "原始土豆地雷",
+        "es": "Papapum primitiva"
+      }
+    },
+    {
+      "CODENAME": "powerlily",
+      "NAME": {
+        "en": "Power Lily",
+        "zh": "能量花",
+        "es": "Lirio poderoso"
+      }
+    },
+    {
+      "CODENAME": "coconutcannon",
+      "NAME": {
+        "en": "Coconut Cannon",
+        "zh": "椰子加农炮",
+        "es": "Cococañón"
+      }
+    },
+    {
+      "CODENAME": "peapod",
+      "NAME": {
+        "en": "Pea Pod",
+        "zh": "豌豆荚",
+        "es": "Vaina"
+      }
+    },
+    {
+      "CODENAME": "snapdragon",
+      "NAME": {
+        "en": "Snapdragon",
+        "zh": "火龙草",
+        "es": "Boca de dragón"
+      }
+    },
+    {
+      "CODENAME": "gatling",
+      "NAME": {
+        "en": "Gatling Pea",
+        "zh": "机枪射手",
+        "es": "Guisantralladora"
+      }
+    },
+    {
+      "CODENAME": "splitpea",
+      "NAME": {
+        "en": "Split Pea",
+        "zh": "裂荚射手",
+        "es": "Bipetidora"
+      }
+    },
+    {
+      "CODENAME": "chilibean",
+      "NAME": {
+        "en": "Chili Bean",
+        "zh": "巴豆",
+        "es": "Frijol"
+      }
+    },
+    {
+      "CODENAME": "tallnut",
+      "NAME": {
+        "en": "Tall-nut",
+        "zh": "高坚果",
+        "es": "Nuez gigante"
+      }
+    },
+    {
+      "CODENAME": "hurrikale",
+      "NAME": {
+        "en": "Hurrikale",
+        "zh": "飓风甘蓝",
+        "es": "Huracol"
+      }
+    },
+    {
+      "CODENAME": "stallia",
+      "NAME": {
+        "en": "Stallia",
+        "zh": "大丽菊",
+        "es": "Paralia"
+      }
+    },
+    {
+      "CODENAME": "squash",
+      "NAME": {
+        "en": "Squash",
+        "zh": "倭瓜",
+        "es": "Apisonaflor"
+      }
+    },
+    {
+      "CODENAME": "gloomshroom",
+      "NAME": {
+        "en": "Gloom-shroom",
+        "zh": "忧郁菇",
+        "es": "Gasoseta"
+      }
+    },
+    {
+      "CODENAME": "magnifyinggrass",
+      "NAME": {
+        "en": "Magnifying Grass",
+        "zh": "棱镜草",
+        "es": "Hierba lupa"
+      }
+    },
+    {
+      "CODENAME": "celerystalker",
+      "NAME": {
+        "en": "Celery Stalker",
+        "zh": "潜伏芹菜",
+        "es": "Apio furtivo"
+      }
+    },
+    {
+      "CODENAME": "parsnip",
+      "NAME": {
+        "en": "Parsnip",
+        "zh": "防风草",
+        "es": "Podarrábano"
+      }
+    },
+    {
+      "CODENAME": "explodeonut",
+      "NAME": {
+        "en": "Explode-O-Nut",
+        "zh": "爆炸坚果",
+        "es": "Explotonuez"
+      }
+    },
+    {
+      "CODENAME": "grapeshot",
+      "NAME": {
+        "en": "Grapeshot",
+        "zh": "爆裂葡萄",
+        "es": "Uva de racimo"
+      }
+    },
+    {
+      "CODENAME": "plantern",
+      "NAME": {
+        "en": "Plantern",
+        "zh": "路灯花",
+        "es": "Planterna"
+      }
+    },
+    {
+      "CODENAME": "jackolantern",
+      "NAME": {
+        "en": "Jack O' Lantern",
+        "zh": "杰克南瓜",
+        "es": "Calabaza iluminada"
+      }
+    },
+    {
+      "CODENAME": "chardguard",
+      "NAME": {
+        "en": "Chard Guard",
+        "zh": "甜菜护卫",
+        "es": "Guardacelga"
+      }
+    },
+    {
+      "CODENAME": "escaperoot",
+      "NAME": {
+        "en": "Escape Root",
+        "zh": "逃脱树根",
+        "es": "Raíz de escape"
+      }
+    },
+    {
+      "CODENAME": "shadowshroom",
+      "NAME": {
+        "en": "Shadow-shroom",
+        "zh": "毒影菇",
+        "es": "Sombraseta"
+      }
+    },
+    {
+      "CODENAME": "magnetshroom",
+      "NAME": {
+        "en": "Magnet-shroom",
+        "zh": "磁力菇",
+        "es": "Magnetoseta"
+      }
+    },
+    {
+      "CODENAME": "citron",
+      "NAME": {
+        "en": "Citron",
+        "zh": "充能柚子",
+        "es": "Pomelo"
+      }
+    },
+    {
+      "CODENAME": "powerplant_alpha",
+      "NAME": {
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜",
+        "es": "Rábano casillero"
+      }
+    },
+    {
+      "CODENAME": "powerplant_beta",
+      "NAME": {
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜",
+        "es": "Rábano casillero"
+      }
+    },
+    {
+      "CODENAME": "powerplant_gamma",
+      "NAME": {
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜",
+        "es": "Rábano casillero"
+      }
+    },
+    {
+      "CODENAME": "powerplant_delta",
+      "NAME": {
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜",
+        "es": "Rábano casillero"
+      }
+    },
+    {
+      "CODENAME": "powerplant_epsilon",
+      "NAME": {
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜",
+        "es": "Rábano casillero"
+      }
+    },
+    {
+      "CODENAME": "powerplant",
+      "NAME": {
+        "en": "Tile Turnip",
+        "zh": "瓷砖萝卜",
+        "es": "Rábano casillero"
+      }
+    },
+    {
+      "CODENAME": "marigold",
+      "NAME": {
+        "en": "Marigold",
+        "zh": "金盏花",
+        "es": "Margarita"
+      }
+    },
+    {
+      "CODENAME": "marigold_red",
+      "NAME": {
+        "en": "Red Marigold",
+        "zh": "火红金盏花",
+        "es": "Margarita roja"
+      }
+    },
+    {
+      "CODENAME": "marigold_orange",
+      "NAME": {
+        "en": "Orange Marigold",
+        "zh": "爆裂金盏花",
+        "es": "Margarita naranja"
+      }
+    },
+    {
+      "CODENAME": "marigold_yellow",
+      "NAME": {
+        "en": "Yellow Marigold",
+        "zh": "耀黄金盏花",
+        "es": "Margarita amarilla"
+      }
+    },
+    {
+      "CODENAME": "marigold_green",
+      "NAME": {
+        "en": "Green Marigold",
+        "zh": "豌豆金盏花",
+        "es": "Margarita verde"
+      }
+    },
+    {
+      "CODENAME": "marigold_blue",
+      "NAME": {
+        "en": "Blue Marigold",
+        "zh": "冰蓝金盏花",
+        "es": "Margarita azul"
+      }
+    },
+    {
+      "CODENAME": "marigold_pink",
+      "NAME": {
+        "en": "Pink Marigold",
+        "zh": "魔力金盏花",
+        "es": "Margarita rosa"
+      }
+    },
+    {
+      "CODENAME": "marigold_purple",
+      "NAME": {
+        "en": "Purple Marigold",
+        "zh": "紫毒金盏花",
+        "es": "Margarita morada"
+      }
+    },
+    {
+      "CODENAME": "applemortar",
+      "NAME": {
+        "en": "Apple Mortar",
+        "zh": "苹果迫击炮",
+        "es": "Manzana mortero"
+      }
+    },
+    {
+      "CODENAME": "skyshooter",
+      "NAME": {
+        "en": "Skyshooter",
+        "zh": "飞天射手",
+        "es": "Aeroguisantes"
+      }
+    },
+    {
+      "CODENAME": "peanut",
+      "NAME": {
+        "en": "Pea-nut",
+        "zh": "花生",
+        "es": "Cacahuate"
+      }
+    },
+    {
+      "CODENAME": "tanglekelp",
+      "NAME": {
+        "en": "Tangle Kelp",
+        "zh": "缠绕水草",
+        "es": "Zampalga"
+      }
+    },
+    {
+      "CODENAME": "bowlingbulb",
+      "NAME": {
+        "en": "Bowling Bulb",
+        "zh": "保龄泡泡",
+        "es": "Bulbo de bolera"
+      }
+    },
+    {
+      "CODENAME": "guacodile",
+      "NAME": {
+        "en": "Guacodile",
+        "zh": "鳄梨",
+        "es": "Guacadrilo"
+      }
+    },
+    {
+      "CODENAME": "tool_projectile_bowling_wallnut",
+      "NAME": {
+        "en": "Bowling Wall-nut",
+        "zh": "坚果保龄球",
+        "es": "Nuez de bolos"
+      }
+    },
+    {
+      "CODENAME": "tool_projectile_bowling_explodeonut",
+      "NAME": {
+        "en": "Bowling Explode-O-Nut",
+        "zh": "爆炸坚果保龄球",
+        "es": "Explotonuez de bolos"
+      }
+    },
+    {
+      "CODENAME": "tool_projectile_bowling_holonut",
+      "NAME": {
+        "en": "Bowling Infi-nut",
+        "zh": "全息坚果保龄球",
+        "es": "Nuez infinita de bolos"
+      }
+    },
+    {
+      "CODENAME": "tool_projectile_bowling_primalwallnut",
+      "NAME": {
+        "en": "Bowling Primal Wall-nut",
+        "zh": "原始坚果保龄球",
+        "es": "Nuez primitiva de bolos"
+      }
+    },
+    {
+      "CODENAME": "tool_projectile_bowling_tallnut",
+      "NAME": {
+        "en": "Bowling Tall-nut",
+        "zh": "高坚果保龄球",
+        "es": "Nuez gigante de bolos"
+      }
+    },
+    {
+      "CODENAME": "ghostpepper",
+      "NAME": {
+        "en": "Ghost Pepper",
+        "zh": "幽灵辣椒",
+        "es": "Chile fantasma"
+      }
+    },
+    {
+      "CODENAME": "pepperpult",
+      "NAME": {
+        "en": "Pepper-pult",
+        "zh": "甜椒投手",
+        "es": "Lanzachiles"
+      }
+    },
+    {
+      "CODENAME": "hotpotato",
+      "NAME": {
+        "en": "Hot Potato",
+        "zh": "烤马铃薯",
+        "es": "Papa caliente"
+      }
+    },
+    {
+      "CODENAME": "endurian",
+      "NAME": {
+        "en": "Endurian",
+        "zh": "榴莲",
+        "es": "Endurián"
+      }
+    },
+    {
+      "CODENAME": "toadstool",
+      "NAME": {
+        "en": "Toadstool",
+        "zh": "金蟾菇",
+        "es": "Hongo"
+      }
+    },
+    {
+      "CODENAME": "lavaguava",
+      "NAME": {
+        "en": "Lava Guava",
+        "zh": "岩浆番石榴",
+        "es": "Guayalava"
+      }
+    },
+    {
+      "CODENAME": "strawburst",
+      "NAME": {
+        "en": "Strawburst",
+        "zh": "爆浆草莓",
+        "es": "Fragaria"
+      }
+    },
+    {
+      "CODENAME": "thymewarp",
+      "NAME": {
+        "en": "Thyme Warp",
+        "zh": "逆时草",
+        "es": "Tomillo tiempillo"
+      }
+    },
+    {
+      "CODENAME": "seashroom",
+      "NAME": {
+        "en": "Sea-shroom",
+        "zh": "海蘑菇",
+        "es": "Marseta"
+      }
+    },
+    {
+      "CODENAME": "sporeshroom",
+      "NAME": {
+        "en": "Spore-shroom",
+        "zh": "孢子菇",
+        "es": "Seta esporada"
+      }
+    },
+    {
+      "CODENAME": "intensivecarrot",
+      "NAME": {
+        "en": "Intensive Carrot",
+        "zh": "复活萝卜",
+        "es": "Zanahoria intensiva"
+      }
+    },
+    {
+      "CODENAME": "nightshade",
+      "NAME": {
+        "en": "Nightshade",
+        "zh": "暗影龙葵",
+        "es": "Solanácea"
+      }
+    },
+    {
+      "CODENAME": "dusklobber",
+      "NAME": {
+        "en": "Dusk Lobber",
+        "zh": "幽暮投手",
+        "es": "Lanzadora oscura"
+      }
+    },
+    {
+      "CODENAME": "grimrose",
+      "NAME": {
+        "en": "Grimrose",
+        "zh": "暗樱草",
+        "es": "Siniestrosa"
+      }
+    },
+    {
+      "CODENAME": "goldbloom",
+      "NAME": {
+        "en": "Gold Bloom",
+        "zh": "黄金蓓蕾",
+        "es": "Florecimiento dorado"
+      }
+    },
+    {
+      "CODENAME": "bloominghearts",
+      "NAME": {
+        "en": "Blooming Heart",
+        "zh": "心蕊",
+        "es": "Corazón floreciente"
+      }
+    },
+    {
+      "CODENAME": "shrinkingviolet",
+      "NAME": {
+        "en": "Shrinking Violet",
+        "zh": "畏缩紫罗兰",
+        "es": "Violeta reductora"
+      }
+    },
+    {
+      "CODENAME": "hotdate",
+      "NAME": {
+        "en": "Hot Date",
+        "zh": "热辣海枣",
+        "es": "Cita ardiente"
+      }
+    },
+    {
+      "CODENAME": "bambooshoot",
+      "NAME": {
+        "en": "Bamboo Shoot",
+        "zh": "竹笋",
+        "es": "Raíz de bambú"
+      }
+    },
+    {
+      "CODENAME": "snowdrop",
+      "NAME": {
+        "en": "Snowdrop",
+        "zh": "雪滴花",
+        "es": "Campanieve"
+      }
+    },
+    {
+      "CODENAME": "bamboozle",
+      "NAME": {
+        "en": "Bamboozle",
+        "zh": "整人竹",
+        "es": "Bamboozle"
+      }
+    },
+    {
+      "CODENAME": "cantaloupe",
+      "NAME": {
+        "en": "Cantaloupe-pult",
+        "zh": "哈密瓜投手",
+        "es": "Melonpulta China"
+      }
+    },
+    {
+      "CODENAME": "iceweed",
+      "NAME": {
+        "en": "Iceweed",
+        "zh": "冰地刺",
+        "es": "Hierbahelada"
+      }
+    },
+    {
+      "CODENAME": "pinkstarfruit",
+      "NAME": {
+        "en": "Angel Starfruit",
+        "zh": "天使星星果",
+        "es": "Frustrella ángel"
+      }
+    },
+    {
+      "CODENAME": "zoybeanpod",
+      "NAME": {
+        "en": "Zoybean Pod",
+        "zh": "豆腐尸荚",
+        "es": "Vaina de zoja"
+      }
+    },
+    {
+      "CODENAME": "atombomb",
+      "NAME": {
+        "en": "Atomic Bombegranate",
+        "zh": "原子石榴弹",
+        "es": "Petagranada atómica"
+      }
+    },
+    {
+      "CODENAME": "pyrevine",
+      "NAME": {
+        "en": "Pyre Vine",
+        "zh": "柴火藤蔓",
+        "es": "Enredadera candelera"
+      }
+    },
+    {
+      "CODENAME": "shinevine",
+      "NAME": {
+        "en": "Shine Vine",
+        "zh": "闪耀藤蔓",
+        "es": "Enredadera reluciente"
+      }
+    },
+    {
+      "CODENAME": "atombomb_seedling",
+      "NAME": {
+        "en": "Atomic Bombegranate",
+        "zh": "原子石榴弹",
+        "es": "Petagranada atómica"
+      }
+    },
+    {
+      "CODENAME": "hollybarrierleaf",
+      "NAME": {
+        "en": "Holly Barrier Leaf",
+        "zh": "冬青骑士障碍",
+        "es": "Barrera de acebo"
+      }
+    },
+    {
+      "CODENAME": "hollybarrierleafplantfood",
+      "NAME": {
+        "en": "Plantfood Holly Barrier Leaf",
+        "zh": "叶绿素冬青骑士障碍",
+        "es": "Barrera de acebo potenciada"
+      }
+    },
+    {
+      "CODENAME": "caulipower",
+      "NAME": {
+        "en": "Caulipower",
+        "zh": "超能花菜",
+        "es": "Colipoder"
+      }
+    },
+    {
+      "CODENAME": "gumnut",
+      "NAME": {
+        "en": "Gumnut",
+        "zh": "香果胶",
+        "es": "Nuez chicletera"
+      }
+    },
+    {
+      "CODENAME": "reinforcemint",
+      "NAME": {
+        "en": "Reinforce-mint",
+        "zh": "防御薄荷",
+        "es": "Reforza-menta"
+      }
+    },
+    {
+      "CODENAME": "enlightenmint",
+      "NAME": {
+        "en": "Enlighten-mint",
+        "zh": "启明薄荷",
+        "es": "Ilumina-menta"
+      }
+    },
+    {
+      "CODENAME": "wintermint",
+      "NAME": {
+        "en": "Winter-mint",
+        "zh": "寒冻薄荷",
+        "es": "Menta invernal"
+      }
+    },
+    {
+      "CODENAME": "spearmint",
+      "NAME": {
+        "en": "Spear-mint",
+        "zh": "穿刺薄荷",
+        "es": "Lanza-menta"
+      }
+    },
+    {
+      "CODENAME": "appeasemint",
+      "NAME": {
+        "en": "Appease-mint",
+        "zh": "平射薄荷",
+        "es": "Apacigua-menta"
+      }
+    },
+    {
+      "CODENAME": "enforcemint",
+      "NAME": {
+        "en": "Enforce-mint",
+        "zh": "健壮薄荷",
+        "es": "Forza-menta"
+      }
+    },
+    {
+      "CODENAME": "peppermint",
+      "NAME": {
+        "en": "Pepper-mint",
+        "zh": "热辣薄荷",
+        "es": "Menta piperita"
+      }
+    },
+    {
+      "CODENAME": "bombardmint",
+      "NAME": {
+        "en": "Bombard-mint",
+        "zh": "爆裂薄荷",
+        "es": "Bomba-menta"
+      }
+    },
+    {
+      "CODENAME": "concealmint",
+      "NAME": {
+        "en": "Conceal-mint",
+        "zh": "暗影薄荷",
+        "es": "Encubri-menta"
+      }
+    },
+    {
+      "CODENAME": "ailmint",
+      "NAME": {
+        "en": "Ail-mint",
+        "zh": "剧毒薄荷",
+        "es": "Enfer-menta"
+      }
+    },
+    {
+      "CODENAME": "enchantmint",
+      "NAME": {
+        "en": "Enchant-mint",
+        "zh": "魔法薄荷",
+        "es": "Encanta-menta"
+      }
+    },
+    {
+      "CODENAME": "filamint",
+      "NAME": {
+        "en": "Fila-mint",
+        "zh": "电能薄荷",
+        "es": "Fila-menta"
+      }
+    },
+    {
+      "CODENAME": "containmint",
+      "NAME": {
+        "en": "Contain-mint",
+        "zh": "滞缓薄荷",
+        "es": "Deteni-menta"
+      }
+    },
+    {
+      "CODENAME": "armamint",
+      "NAME": {
+        "en": "Arma-mint",
+        "zh": "军械薄荷",
+        "es": "Arma-menta"
+      }
+    },
+    {
+      "CODENAME": "seashooter",
+      "NAME": {
+        "en": "Seashooter",
+        "zh": "海豌豆",
+        "es": "Aguaguisantes"
+      }
+    },
+    {
+      "CODENAME": "murkadamia",
+      "NAME": {
+        "en": "Murkadamia Nut",
+        "zh": "暗影夏威夷果",
+        "es": "Macadumbría"
+      }
+    },
+    {
+      "CODENAME": "snappea",
+      "NAME": {
+        "en": "Snap Pea",
+        "zh": "大嘴豌豆",
+        "es": "Guisante carnívoro"
+      }
+    },
+    {
+      "CODENAME": "asparagus",
+      "NAME": {
+        "en": "Asparajet",
+        "zh": "芦笋战机",
+        "es": "Acesparrago"
+      }
+    },
+    {
+      "CODENAME": "pineapple",
+      "NAME": {
+        "en": "Spinapple",
+        "zh": "旋转菠萝",
+        "es": "Giraña"
+      }
+    },
+    {
+      "CODENAME": "bulbkekengi",
+      "NAME": {
+        "en": "Glowkengi",
+        "zh": "灯笼草",
+        "es": "Luminengi"
+      }
+    },
+    {
+      "CODENAME": "loquat",
+      "NAME": {
+        "en": "Loquanado",
+        "zh": "漩涡枇杷",
+        "es": "Níspero"
+      }
+    },
+    {
+      "CODENAME": "peacommando",
+      "NAME": {
+        "en": "Pea Commando",
+        "zh": "豌豆突击队",
+        "es": "Guisante comando"
+      }
+    },
+    {
+      "CODENAME": "wasabiwhip",
+      "NAME": {
+        "en": "Wasabi Whip",
+        "zh": "炙热山葵",
+        "es": "Látigo wasabi"
+      }
+    },
+    {
+      "CODENAME": "poisonpeashooter",
+      "NAME": {
+        "en": "Goo Peashooter",
+        "zh": "黏毒豌豆",
+        "es": "Lanzaguisantes pringoso"
+      }
+    },
+    {
+      "CODENAME": "darkmatterdragonfruit",
+      "NAME": {
+        "en": "Dark Matter Dragonfruit",
+        "zh": "暗物质火龙果",
+        "es": "Pitaya de materia oscura"
+      }
+    },
+    {
+      "CODENAME": "mirrornut",
+      "NAME": {
+        "en": "Mirror-nut",
+        "zh": "镜面坚果",
+        "es": "Nuez espejo"
+      }
+    },
+    {
+      "CODENAME": "inferno",
+      "NAME": {
+        "en": "Inferno",
+        "zh": "地狱火蕨",
+        "es": "Inferno"
+      }
+    },
+    {
+      "CODENAME": "slingpea",
+      "NAME": {
+        "en": "Sling Pea",
+        "zh": "豌豆迫击炮",
+        "es": "Tiraguisantes"
+      }
+    },
+    {
+      "CODENAME": "chillypepper",
+      "NAME": {
+        "en": "Chilly Pepper",
+        "zh": "寒冰辣椒",
+        "es": "Chile gélido"
+      }
+    },
+    {
+      "CODENAME": "witchhazel",
+      "NAME": {
+        "en": "Witch Hazel",
+        "zh": "女巫金缕梅",
+        "es": "Bruja avellana"
+      }
+    },
+    {
+      "CODENAME": "blastberry",
+      "NAME": {
+        "en": "Blastberry Vine",
+        "zh": "爆莓藤蔓",
+        "es": "Enredadera explosiva"
+      }
+    },
+    {
+      "CODENAME": "turkeypult",
+      "NAME": {
+        "en": "Turkey-pult",
+        "zh": "火鸡投手",
+        "es": "Pavopulta"
+      }
+    },
+    {
+      "CODENAME": "stickybombrice",
+      "NAME": {
+        "en": "Stickybomb Rice",
+        "zh": "糯米投弹手",
+        "es": "Arroz bomba pegajosa"
+      }
+    },
+    {
+      "CODENAME": "lotorpedo",
+      "NAME": {
+        "en": "Lotorpedo",
+        "zh": "鱼雷莲蓬",
+        "es": "Lototorpedo"
+      }
+    },
+    {
+      "CODENAME": "firepeashooter_mgp",
+      "NAME": {
+        "en": "Fire Mega Gatling Pea",
+        "zh": "火焰超级机枪射手",
+        "es": "Megaguisantralladora de fuego"
+      }
+    },
+    {
+      "CODENAME": "poisonpeashooter_mgp",
+      "NAME": {
+        "en": "Goo Mega Gatling Pea",
+        "zh": "黏毒超级机枪射手",
+        "es": "Megaguisantralladora pringosa"
+      }
+    },
+    {
+      "CODENAME": "snowpea_mgp",
+      "NAME": {
+        "en": "Snow Mega Gatling Pea",
+        "zh": "寒冰超级机枪射手",
+        "es": "Megaguisantralladora de hielo"
+      }
+    },
+    {
+      "CODENAME": "primalpeashooter_mgp",
+      "NAME": {
+        "en": "Primal Mega Gatling Pea",
+        "zh": "原始超级机枪射手",
+        "es": "Megaguisantralladora primitiva"
+      }
+    },
+    {
+      "CODENAME": "electricpeashooter_mgp",
+      "NAME": {
+        "en": "Electric Mega Gatling Pea",
+        "zh": "电能超级机枪射手",
+        "es": "Megaguisantralladora eléctrica"
+      }
+    },
+    {
+      "CODENAME": "threepeater_mgp",
+      "NAME": {
+        "en": "Mega Gatling Threepeater",
+        "zh": "三线超级机枪射手",
+        "es": "Megatripitidora"
+      }
+    },
+    {
+      "CODENAME": "shadowpeashooter_mgp",
+      "NAME": {
+        "en": "Shadow Mega Gatling Pea",
+        "zh": "暗影超级机枪射手",
+        "es": "Megaguisantralladora sombría"
+      }
+    },
+    {
+      "CODENAME": "repeater_mgp",
+      "NAME": {
+        "en": "Mega Gatling Repeater",
+        "zh": "超级机枪双重射手",
+        "es": "Megarrepetidora"
+      }
+    },
+    {
+      "CODENAME": "splitpea_mgp",
+      "NAME": {
+        "en": "Split Mega Gatling Pea",
+        "zh": "超级机枪裂荚射手",
+        "es": "Megabipetidora"
+      }
+    },
+    {
+      "CODENAME": "slingpea_mgp",
+      "NAME": {
+        "en": "Mega Sling Pea",
+        "zh": "超级豌豆迫击炮",
+        "es": "Megatiraguisantes"
+      }
+    },
+    {
+      "CODENAME": "peapod_mgp",
+      "NAME": {
+        "en": "Mega Gatling Pea Pod",
+        "zh": "超级机枪豌豆荚",
+        "es": "Megavaina"
+      }
+    },
+    {
+      "CODENAME": "seashooter_mgp",
+      "NAME": {
+        "en": "Mega Gatling Seashooter",
+        "zh": "超级机枪海豌豆",
+        "es": "Mega-aguaguisantes"
+      }
+    },
+    {
+      "CODENAME": "snappea_mgp",
+      "NAME": {
+        "en": "Mega Gatling Snap Pea",
+        "zh": "超级机枪大嘴豌豆",
+        "es": "Megaguisante carnívoro"
+      }
+    },
+    {
+      "CODENAME": "skyshooter_mgp",
+      "NAME": {
+        "en": "Mega Gatling Skyshooter",
+        "zh": "超级机枪飞天射手",
+        "es": "Megalanzaguisantes aéreo"
+      }
+    },
+    {
+      "CODENAME": "gatling_mgp",
+      "NAME": {
+        "en": "Mega Gatling Gatling Pea",
+        "zh": "超级机枪机枪射手",
+        "es": "Megaguisantralladora doble"
+      }
+    },
+    {
+      "CODENAME": "peacommando_mgp",
+      "NAME": {
+        "en": "Mega Gatling Pea Commando",
+        "zh": "超级机枪豌豆突击队",
+        "es": "Megaguisante comando"
+      }
+    }
+  ]
+}

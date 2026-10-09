@@ -1,0 +1,11 @@
+{
+  "uuid": "traduccionlatina.pvzge",
+  "name": "Traducción al español latino",
+  "version": "1.0.0",
+  "packFormatVersion": 1,
+  "description": "Un mod de traducción al español latino para el juego Plants vs Zombies Gardenless.",
+  "author": "ElTr4ck",
+  "formatVersion": 1,
+  "gameVersion": "0.15.0",
+  "gpNextVersion": ">=1.5.0"
+}
