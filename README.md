@@ -5,7 +5,7 @@ Mod de traducción al **español latino** para **PvZ2 Gardendless**, hecho para 
 ## Instalación
 
 1. **Descarga el mod en .zip.** Tienes dos opciones:
-   - En [**Releases**](../../releases/latest), descarga `TraduccionLatinaGardenless.zip`.
+   - En [**Releases**](../../releases/latest), descarga `TraduccionLatina-PvZGE-1.1.0.zip` (o la versión más reciente).
    - O en esta página, usa el botón verde **Code → Download ZIP**.
 
    **No descomprimas el archivo**: se importa tal cual.
@@ -25,6 +25,8 @@ Si al iniciar aparece el error `Native build identity is unavailable`, actualiza
 
 ## Qué cambia
 
+- **Diálogos (nuevo en 1.1.0)**: las 1,818 líneas de Dave el Loco, Penny, el Dr. Zomboss y los héroes, reescritas en español latino con el humor de PvZ y los nombres de la wiki.
+
 - **Nombres de plantas y zombis** según la wiki en español: Apisonaflor, Papapum, Coltapulta, Hielaguisantes, Planta carroñívora, Zombictor, Yeti del tesoro, y la terminología de variantes (*caracono*, *caracubo*, *abanderado*, *Zombidito*, *Zombistein*).
 - **Mundos**: Playa de la Gran Ola, Vueltacasete de Neón, Cuevas Congeladas, Pantano del Jurásico, Tiempos Modernos y Templo Kung Fu.
 - **Consejos de la pantalla de carga**: estaban desfasados (cada consejo mostraba el texto de otro). Ahora coinciden y se tradujeron los que faltaban.
@@ -42,6 +44,7 @@ Si al iniciar aparece el error `Native build identity is unavailable`, actualiza
 | `jsons/features/ZombieFeatures.json` | Nombres de zombis |
 | `jsons/objects/PlantAlmanac.json` | Almanaque de plantas |
 | `jsons/objects/ZombieAlmanac.json` | Almanaque de zombis |
+| `jsons/objects/NarrativeList.json` | Diálogos |
 
 ## Errores o sugerencias
 
@@ -50,3 +53,8 @@ Si encuentras un texto mal traducido, abre un [Issue](../../issues) con el texto
 ## Aviso
 
 Proyecto de fans, sin relación con Electronic Arts, PopCap Games ni el equipo de PvZ2 Gardendless. *Plants vs. Zombies* es una marca de Electronic Arts. Los nombres en español se basan en la Wiki de Plants vs. Zombies en español.
+
+## Historial de versiones
+
+- **1.1.0**: diálogos completos traducidos; el jefe zombi se llama Dr. Zomboss en todo el juego.
+- **1.0.0**: nombres, almanaque, interfaz, mundos y consejos de carga.
